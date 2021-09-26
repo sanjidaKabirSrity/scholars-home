@@ -1,1 +1,10 @@
-
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1, h2, h3, h4{
+    padding: 15px 0px;
+}
+p , span{
+    padding: 10px 0px;
+}

@@ -1,0 +1,17 @@
+.summary-list{
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+}
+.selected-h3{
+    text-align: center;
+    color: #116181;
+    font-size: 22px;
+    font-weight: 600;
+}
+.quantity{
+    color: rgb(2, 117, 112);
+}
+.list-show{
+    text-align: center;
+}

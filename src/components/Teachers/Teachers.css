@@ -1,0 +1,39 @@
+.teachers-container{
+    background-color: white;
+    border-radius: 7px;
+    border : 1px solid rgb(182, 182, 182);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img{
+    text-align: center;
+    padding-top: 20px;
+}
+.img img{
+    border-radius: 50%;
+}
+.teacher-box-body{
+    text-align: center;
+}
+.name{
+    color:#116181;
+}
+.teacher{
+    color: lightseagreen;
+}
+.university{
+    color:gray
+}
+.salary{
+    color:#116181;
+}
+.select-btn{
+    border: none;
+    border-radius: 20px;
+    padding:8px 20px;
+    background-color:#116181;
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    cursor: pointer;
+}

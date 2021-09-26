@@ -6,7 +6,7 @@
         "teacher":"Chemistry Teacher",
         "university":"North South University",
         "teaching":"Chamistry & Physics",
-        "salary":80000
+        "salary":1480
     },
     {
         "id":"2t",
@@ -15,7 +15,7 @@
         "teacher":"CEO at 10 Minute School",
         "university":"IBA, University of Dhaka",
         "teaching":"English & Math",
-        "salary":200000
+        "salary":2700
     },
     {
         "id":"3t",
@@ -24,7 +24,7 @@
         "teacher":"English instructor",
         "university":"BAF Shaheen College, Chittagong",
         "teaching":"English",
-        "salary":100000
+        "salary":1380
     },
     {
         "id":"4t",
@@ -33,7 +33,7 @@
         "teacher":"English Teacher",
         "university":"BAF Shaheen College, Chittagong",
         "teaching":"English",
-        "salary":110000
+        "salary":1400
     },
     {
         "id":"5t",
@@ -42,7 +42,7 @@
         "teacher":"English Teacher",
         "university":"IBA, University of Dhaka",
         "teaching":"English",
-        "salary":105000
+        "salary":1350
     },
     {
         "id":"6t",
@@ -51,7 +51,7 @@
         "teacher":"Technical Project Manager",
         "university":"Daffodil International University",
         "teaching":"Math and Technology",
-        "salary":90000
+        "salary":1130
     },
     {
         "id":"7t",
@@ -60,7 +60,7 @@
         "teacher":"English Teacher",
         "university":"BAF Shaheen College, Chittagong",
         "teaching":"English",
-        "salary":95000
+        "salary":1190
     },
     {
         "id":"8t",
@@ -69,7 +69,7 @@
         "teacher":"English Teacher",
         "university":"University of Oxford",
         "teaching":"English",
-        "salary":200000
+        "salary":2500
     },
     {
         "id":"9t",
@@ -78,7 +78,7 @@
         "teacher":"Chemistry Teacher",
         "university":"University of Oxford",
         "teaching":"Chemistry",
-        "salary":180000
+        "salary":2250
     },
     {
         "id":"10t",
@@ -87,7 +87,7 @@
         "teacher":"Web Developer",
         "university":"Bangladesh University of Engineering and Technology",
         "teaching":"Programming",
-        "salary":200000
+        "salary":2500
     },
     {
         "id":"11t",
@@ -96,7 +96,7 @@
         "teacher":"English Teacher",
         "university":"University of Oxford",
         "teaching":"English",
-        "salary":150000
+        "salary":1875
     },
     {
         "id":"12t",
@@ -105,7 +105,7 @@
         "teacher":"Bangla Instructor",
         "university":"Michigan State University",
         "teaching":"Bangla",
-        "salary":80000
+        "salary":1000
     },
     {
         "id":"13t",
@@ -114,7 +114,7 @@
         "teacher":"English Trainer",
         "university":"Lady Shri Ram College",
         "teaching":"English",
-        "salary":130000
+        "salary":1625
     },
     {
         "id":"14t",
@@ -123,7 +123,7 @@
         "teacher":"English Trainer",
         "university":"University of Oxford",
         "teaching":"English",
-        "salary":200000
+        "salary":2500
     },
     {
         "id":"15t",
@@ -132,7 +132,7 @@
         "teacher":"Research Assistant",
         "university":"Tampere University",
         "teaching":"Programming",
-        "salary":200000
+        "salary": 2500
     },
     {
         "id":"16t",
@@ -141,7 +141,7 @@
         "teacher":"English Teacher",
         "university":"BAF Shaheen College, Chittagong",
         "teaching":"English",
-        "salary":95000
+        "salary":1187.5
     },
     {
         "id":"17t",
@@ -150,15 +150,15 @@
         "teacher":"English Teacher",
         "university":"University of Dhaka",
         "teaching":"English",
-        "salary":150000
+        "salary":1875
     },
     {
         "id":"18t",
-        "img": "https://i.ibb.co/b3HvSSp/delowar.jpg",
+        "img": "https://i.ibb.co/vQn8YJV/delowar-100x100.jpg",
         "name":"Delowar Hossain",
         "teacher":"Chemistry Teacher",
         "university":"North South University",
         "teaching":"Chemistry",
-        "salary":850000
+        "salary":10625
     }
 ]
