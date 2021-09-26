@@ -8,8 +8,8 @@ const List = (props) => {
             <div className="summary-list">
                 <h3 className="selected-h3">Selected Teachers Summary</h3>
                 <div>
-                    <h3>Selected: <span className="quantity">{list.length}</span></h3>
-                    <h3>Total Salary: <span className="quantity">{total} $</span></h3>
+                    <h3><i className="fas fa-user"></i> Selected: <span className="quantity">{list.length}</span></h3>
+                    <h3><i className="fas fa-dollar-sign"></i> Total Salary: <span className="quantity">{total} $</span></h3>
                 </div>
                 <div>
                     {

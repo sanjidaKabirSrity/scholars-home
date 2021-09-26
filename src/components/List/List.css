@@ -14,4 +14,9 @@
 }
 .list-show{
     text-align: center;
+    background-color:rgb(242, 246, 248);
+    padding: 10px;
+    border-radius: 10px;
+    margin: 20px;
+    box-shadow: 0 4px 8px 0 rgba(85, 85, 85, 0.2);
 }
