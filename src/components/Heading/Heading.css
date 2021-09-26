@@ -1,0 +1,56 @@
+.nav-bar{
+    display: grid;
+    grid-template-columns: 1fr 3fr 2fr;
+    width: 1150px;
+    margin: auto;
+}
+.logo{
+    margin: 10px 0px 0px 0px;
+    width: 75%;
+}
+.nav-item a{
+text-decoration: none;
+color: #116181;
+font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+display: inline-block;
+margin: 30px 30px 0px 30px;
+}
+.nav-item a:hover{
+    color: lightseagreen;
+}
+.search-input{
+    width: 100%;
+    outline: none;
+    margin: 20px 0px 0px 0px;
+    border: none;
+    background-color: rgb(230, 240, 243);
+    padding: 10px 0px 10px 10px;
+    font-size: 14px;
+}
+.headtText-container{
+    margin-top: 0px;
+    background-image: url(https://www.scholars-home.org/img/institute-banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.headtText-h1{
+    font-weight: 400;
+    font-size: 40px;
+    padding: 40px 0px 0px 0px;
+}
+.headtText-P{
+    font-size: 20px;
+}
+.headtText-h3{
+    font-size: 28px;
+    font-weight: 500;
+    padding-bottom: 30px;
+}
+.headtText-h3:hover{
+    color: lightseagreen;
+    cursor: pointer;
+}

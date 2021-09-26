@@ -1,0 +1,164 @@
+[
+    {
+        "id":"1t",
+        "img": "https://i.ibb.co/ZHrpcxM/fahad.jpg",
+        "name":"Fahad Hossain",
+        "teacher":"Chemistry Teacher",
+        "university":"North South University",
+        "teaching":"Chamistry & Physics",
+        "salary":80000
+    },
+    {
+        "id":"2t",
+        "img": "https://i.ibb.co/48nm9zT/download-1-100x100.jpg",
+        "name":"Ayman Sadiq",
+        "teacher":"CEO at 10 Minute School",
+        "university":"IBA, University of Dhaka",
+        "teaching":"English & Math",
+        "salary":200000
+    },
+    {
+        "id":"3t",
+        "img": "https://i.ibb.co/vLCzSDw/noore-jannat-meem.jpg",
+        "name":"Noore Jannat Meem",
+        "teacher":"English instructor",
+        "university":"BAF Shaheen College, Chittagong",
+        "teaching":"English",
+        "salary":100000
+    },
+    {
+        "id":"4t",
+        "img": "https://i.ibb.co/4JyTWCr/sanjida-khanom.jpg",
+        "name":"Sanjida Khanom",
+        "teacher":"English Teacher",
+        "university":"BAF Shaheen College, Chittagong",
+        "teaching":"English",
+        "salary":110000
+    },
+    {
+        "id":"5t",
+        "img": "https://i.ibb.co/fN21nLQ/anaya.jpg",
+        "name":"Ananya Akter",
+        "teacher":"English Teacher",
+        "university":"IBA, University of Dhaka",
+        "teaching":"English",
+        "salary":105000
+    },
+    {
+        "id":"6t",
+        "img": "https://i.ibb.co/5r8FMF4/monira-akter-laboni-100x100.jpg",
+        "name":"Monira Akter Laboni",
+        "teacher":"Technical Project Manager",
+        "university":"Daffodil International University",
+        "teaching":"Math and Technology",
+        "salary":90000
+    },
+    {
+        "id":"7t",
+        "img": "https://i.ibb.co/2P0M0bN/mashiar-ahmed.webp",
+        "name":"Mashiar Ahmed",
+        "teacher":"English Teacher",
+        "university":"BAF Shaheen College, Chittagong",
+        "teaching":"English",
+        "salary":95000
+    },
+    {
+        "id":"8t",
+        "img": "https://i.ibb.co/WP3pMN2/munzeeren-shahid.jpg",
+        "name":"Munzereen Shahid",
+        "teacher":"English Teacher",
+        "university":"University of Oxford",
+        "teaching":"English",
+        "salary":200000
+    },
+    {
+        "id":"9t",
+        "img": "https://i.ibb.co/mtxkgTC/shamir-montazir.jpg",
+        "name":"Munzereen Shahid",
+        "teacher":"Chemistry Teacher",
+        "university":"University of Oxford",
+        "teaching":"Chemistry",
+        "salary":180000
+    },
+    {
+        "id":"10t",
+        "img": "https://i.ibb.co/Wx63Yyg/jhanker-mahbub.jpg",
+        "name":"Jhankar Mahbub",
+        "teacher":"Web Developer",
+        "university":"Bangladesh University of Engineering and Technology",
+        "teaching":"Programming",
+        "salary":200000
+    },
+    {
+        "id":"11t",
+        "img": "https://i.ibb.co/cbKYLF5/nusrat-jahan.jpg",
+        "name":"Nusrat Jahan",
+        "teacher":"English Teacher",
+        "university":"University of Oxford",
+        "teaching":"English",
+        "salary":150000
+    },
+    {
+        "id":"12t",
+        "img": "https://i.ibb.co/Dk2GqQ7/nahid-bin-khalid.jpg",
+        "name":"Nahid Bin Khalid",
+        "teacher":"Bangla Instructor",
+        "university":"Michigan State University",
+        "teaching":"Bangla",
+        "salary":80000
+    },
+    {
+        "id":"13t",
+        "img": "https://i.ibb.co/4ShLSK7/aditi-banargee.jpg",
+        "name":"Aditi Banerjee",
+        "teacher":"English Trainer",
+        "university":"Lady Shri Ram College",
+        "teaching":"English",
+        "salary":130000
+    },
+    {
+        "id":"14t",
+        "img": "https://i.ibb.co/945thBf/shafins.jpg",
+        "name":"Shafin's",
+        "teacher":"English Trainer",
+        "university":"University of Oxford",
+        "teaching":"English",
+        "salary":200000
+    },
+    {
+        "id":"15t",
+        "img": "https://i.ibb.co/PCTjMQ6/anisul-islam.jpg",
+        "name":"Anisul Islam",
+        "teacher":"Research Assistant",
+        "university":"Tampere University",
+        "teaching":"Programming",
+        "salary":200000
+    },
+    {
+        "id":"16t",
+        "img": "https://i.ibb.co/3Yw0Xbj/hasibul-islam.jpg",
+        "name":"Hasibul Islam",
+        "teacher":"English Teacher",
+        "university":"BAF Shaheen College, Chittagong",
+        "teaching":"English",
+        "salary":95000
+    },
+    {
+        "id":"17t",
+        "img": "https://i.ibb.co/4p4vGdY/sakib-bin-rasid.jpg",
+        "name":"Sakib Bin Rashid",
+        "teacher":"English Teacher",
+        "university":"University of Dhaka",
+        "teaching":"English",
+        "salary":150000
+    },
+    {
+        "id":"18t",
+        "img": "https://i.ibb.co/b3HvSSp/delowar.jpg",
+        "name":"Delowar Hossain",
+        "teacher":"Chemistry Teacher",
+        "university":"North South University",
+        "teaching":"Chemistry",
+        "salary":850000
+    }
+]
